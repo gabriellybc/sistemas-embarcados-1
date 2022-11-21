@@ -1,6 +1,7 @@
 # Primeiro trabalho da disciplina de Sistemas Embarcados 1 da UFES
 
 Desenvolvido por Gabrielly Barcelos Cariman
+
 No segundo semestre de 2022
 
 Para rodar esse jogo no seu computador você precisa ter instalado o programa DOSBOX, que pode ser baixado em https://www.dosbox.com/download.php?main=1
